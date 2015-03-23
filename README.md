@@ -1,4 +1,4 @@
-Simulator intended to give teachers a simpler way to teach buffer overflow vulnerabilities. Instead of having to learn the complexities of x86 instruction sets and stack implementations, students can learn a simple language with a sad BO vulnerability, and can develop working exploits in minutes.
+(Buggy) Simulator intended to give CS teachers a simpler way to teach buffer overflow vulnerabilities. Instead of having to learn the complexities of an x86 or amd64 instruction set, students can learn a simple language with a sad BO vulnerability, and can develop working exploits in a graphical training environment in minutes.
 
 The project was written in QT4, so you have to install that to work on the project. The code is not very maintainable, probably riddled with bugs (I seem to remember it barely working when I built it). I'd like to get it less buggy, more maintainable, more capable and less reliant on heavy libraries, which may require a different language and a web interface (that might be quite nice and might make it easier to use educationally). But for now I'm starting by getting the code available.
 
