@@ -1,0 +1,1 @@
+This folder contains an attempt at porting bosim over to javascript, with the primary intent of running it in the browser. It also would be useful to put it into a structure that enables the modules that power things to be used in non-browser contexts, but that can come later. For now, putting it in browser in javascript would make it much more accessible.
